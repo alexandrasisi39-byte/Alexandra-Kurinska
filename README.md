@@ -13,8 +13,8 @@
 * 🏛️ **Exchange Year in Graz (2025–2026):** Conservatory & University of Graz (Karl-Franzens-Universität Graz)
 
 ### 🏅 Grants & Summer Scholarships
-* 🇮🇹 **MEACI Grant (Siena, Italy):** Multi-month intensive Italian language course at the Università per Stranieri di Siena during Bachelor's studies.   
-* 🇩🇪 **OeAD Grant (Graz, Austria):** One-month summer German language course in Graz during Bachelor's studies.
+ **MEACI Grant (Siena, Italy):** Multi-month intensive Italian language course at the Università per Stranieri di Siena during Bachelor's studies.   
+   **OeAD Grant (Graz, Austria):** One-month summer German language course in Graz during Bachelor's studies.
 ---
 ## 🛠️ Professional Focus & Skills
 * **Languages & Pedagogy:** German as a Foreign/Second Language (DaF/DaZ), Italian Language Instruction & Translation, Vocal Pedagogy
